@@ -1,0 +1,3 @@
+﻿  OpenMP.cpp
+C:\Users\akrug\source\repos\OpenMP\OpenMP\OpenMP.cpp(26,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OpenMP.vcxproj -> C:\Users\akrug\source\repos\OpenMP\Debug\OpenMP.exe
